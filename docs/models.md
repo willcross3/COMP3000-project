@@ -2,7 +2,7 @@
 
 *Proposed 12 Nov 2026, to be selected once each model has been tested on my PC.*
 
-**Proposal:** 5 models × 2 quantisation levels = **10 setups**, all chosen to fit on the desktop GPU (16 GB VRAM, about 13 GB free in the pilot). Sizes are approximate, from the Ollama library in November 2026.
+**Proposal:** 5 models × 2 quantisation levels = **10 setups**, all chosen to fit on the desktop GPU (16 GB VRAM). Sizes are approximate, from the Ollama library in November 2026.
 
 | Family | Model | 4-bit | 8-bit | Role |
 |---|---|---|---|---|
