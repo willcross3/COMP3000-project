@@ -1,4 +1,4 @@
-# WP1 plan: load forensic timelines into a database
+# Sprint 1 plan: load forensic timelines into a database
 
 **Goal:** load the benchmark's timeline CSV files into one SQLite database, with row numbers that match the answer keys.
 
